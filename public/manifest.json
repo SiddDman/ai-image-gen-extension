@@ -7,8 +7,10 @@
     "default_title": "AI Image Generator",
     "default_popup": "index.html",
     "default_icon": {
-      "16": "./dall-e-2.jpg",
-      "128": "./dall-e-2.jpg"
+      "16": "./logo16.png",
+      "64": "./logo64.png",
+      "128": "./logo128.png",
+      "512": "./logo512.png"
     }
   }
 }
