@@ -18,8 +18,7 @@ const ImageGenerator = () => {
       headers: {
         accept: "application/json",
         "content-type": "application/json",
-        authorization: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZTQ5NjAxZmMtM2Q1Yi00ZmY0LWJjY2YtMzYwMTY1YmUxMWQ2IiwidHlwZSI6ImFwaV90b2tlbiJ9.xuAJRzCcLzKabCnrNtfmR0Zz4uTy9lhGBOUW-r_-h6g
-`,
+        authorization: `Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZTQ5NjAxZmMtM2Q1Yi00ZmY0LWJjY2YtMzYwMTY1YmUxMWQ2IiwidHlwZSI6ImFwaV90b2tlbiJ9.xuAJRzCcLzKabCnrNtfmR0Zz4uTy9lhGBOUW-r_-h6g`,
       },
       body: JSON.stringify({
         response_as_dict: true,
