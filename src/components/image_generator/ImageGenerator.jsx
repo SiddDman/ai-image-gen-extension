@@ -22,6 +22,7 @@ const ImageGenerator = () => {
       },
       body: JSON.stringify({
         response_as_dict: true,
+        
         attributes_as_list: false,
         show_original_response: false,
         num_images: 1,
